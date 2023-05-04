@@ -1,0 +1,75 @@
+{
+    "movies":[
+        {
+            "name":"Movie 1",
+            "rating":"5",
+            "release_Date":"2024-04-29"
+        },
+        {
+            "name":"movie 2",
+            "rating":"5",
+            "release_Date":"2024-04-29"
+        },
+        {
+            "name":"movie 3",
+            "rating":"5",
+            "release_Date":"2024-04-29"
+        },
+        {
+            "name":"movie 4",
+            "rating":"5",
+            "release_Date":"2024-04-29"
+        },
+        {
+            "name":"movie 5",
+            "rating":"5",
+            "release_Date":"2024-04-29"
+        },
+        {
+            "name":"movie 6",
+            "rating":"5",
+            "release_Date":"2024-04-29"
+        },
+        {
+            "name":"movie 7",
+            "rating":"5",
+            "release_Date":"2024-04-29"
+        },
+        {
+            "name":"movie 8",
+            "rating":"5",
+            "release_Date":"2024-04-29"
+        },
+        {
+            "name":"movie 9",
+            "rating":"5",
+            "release_Date":"2024-04-29"
+        },
+        {
+            "name":"rama seetha",
+            "rating":"5",
+            "release_Date":"2024-04-29"
+        },
+        {
+            "name":"rama seetha",
+            "rating":"5",
+            "release_Date":"2024-04-29"
+        },
+        {
+            "name":"rama seetha",
+            "rating":"5",
+            "release_Date":"2024-04-29"
+        },
+        {
+            "name":"rama seetha",
+            "rating":"5",
+            "release_Date":"2024-04-29"
+        },
+        {
+            "name":"rama seetha",
+            "rating":"5",
+            "release_Date":"2024-04-29"
+        }
+
+    ]
+}
